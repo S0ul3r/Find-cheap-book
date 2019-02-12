@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\jakub\source\repos\project6\project6\source.cpp(30): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+c:\users\jakub\source\repos\project6\project6\source.cpp(36): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+  Project6.vcxproj -> C:\Users\jakub\source\repos\Project6\Debug\Project6.exe
